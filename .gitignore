@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# env
+.env.local
+.env*.local
+
+# build artifacts
+target/
+*.wasm
+
+# misc
+.DS_Store
+*.log
